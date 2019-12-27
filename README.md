@@ -1,1 +1,3 @@
 # musical-octo-sniffle
+
+solution for exercises in go tour ...
